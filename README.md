@@ -1,4 +1,4 @@
-# MNIST Digit Classifier — Neural Network from Scratch (Keras + TensorFlow)
+# MNIST Digit Classifier — Neural Network from Scratch using Keras + TensorFlow
 
 A simple, from-scratch image classification mini project that trains a fully-connected (dense) neural network on the **MNIST handwritten digits dataset** using **Keras** with a **TensorFlow** backend.
 
@@ -59,7 +59,7 @@ The model takes a 28x28 grayscale image of a handwritten digit and predicts whic
 
 Make sure you have the following installed before running the project:
 
-- Python 3.8+
+- Python 3.8+ (depending on TensorFlow version)
 - pip (Python package manager)
 
 ### Required Libraries
@@ -110,10 +110,10 @@ pip install tensorflow keras numpy matplotlib
 ## Project Structure
 
 ```
-├── mnist_classifier.ipynb / .py   # Main project file
-├── README.md                      # Project documentation
-├── requirements.txt               # Python dependencies
-└── images/                        # (Optional) Sample prediction plots
+├── Notebook_1.ipynb  # Main project file
+├── README.md         # Project documentation
+├── .gitignore               
+                
 ```
 
 ---
