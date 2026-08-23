@@ -144,3 +144,5 @@ vite.config.ts.timestamp-*
 
 
 .ipynb_checkpoints/
+
+Basic Image Classification with TensorFlow.pdf
